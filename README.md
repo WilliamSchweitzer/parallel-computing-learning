@@ -1,4 +1,4 @@
-# parallel-computing-learning
+# parallel-computing-learning 
 Learning for CS5068
 
 ## Resources used:
