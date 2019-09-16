@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 
 /numpy-tutorial/.ipynb_checkpoints/
+*.cp
+*.libs
